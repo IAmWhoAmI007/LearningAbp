@@ -1,9 +1,0 @@
-# See http://help.github.com/ignore-files/ for more about ignoring files.
-
-# IDEs and editors
-.vs/
-obj/
-bin/
-aspnet-core/src/MyABPTest.Web.Host/App_Data/Logs/
-aspnet-core/src/MyABPTest.Web.Mvc/App_Data/Logs/
-aspnet-core/src/MyABPTest.Migrator/Logs/Logs.txt
